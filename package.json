@@ -1,0 +1,12 @@
+{
+  "name": "versionierungs-vereinfacher",
+  "version": "1.0.0",
+  "description": "Ein einfaches Tool zur Visualisierung von Git-Commits und Branches für Einsteiger.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
