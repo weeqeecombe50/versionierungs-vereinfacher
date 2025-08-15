@@ -1,1 +1,20 @@
 {
+  "name": "mein-projekt",
+  "version": "1.0.0",
+  "description": "Eine kurze Beschreibung meines Projekts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benutzer/mein-projekt.git"
+  },
+  "keywords": ["projekt", "beispiel"],
+  "author": "Mein Name",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benutzer/mein-projekt/issues"
+  },
+  "homepage": "https://github.com/benutzer/mein-projekt#readme"
+}
