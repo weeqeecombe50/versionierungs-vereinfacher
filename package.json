@@ -4,7 +4,7 @@
   "description": "Eine kurze Beschreibung meines Projekts.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"  // Placeholder for the test script
+    "test": "echo \"Error: no test specified\" && exit 1"  // Placeholder for the test script, replace with actual test command
   },
   "repository": {
     "type": "git",
